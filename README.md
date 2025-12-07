@@ -1,5 +1,5 @@
 # AI Hedging Agent
 
-Progetto individuale per il corso "Generative AI for Business".
+Individual assignment for the course Generative AI for Business at WHU
 
-Obiettivo: sviluppare un agente AI per l'hedging automatico di portafogli finanziari.
+Objective: develop an AI agent for automatic hedging of derivatives financial portfolios
