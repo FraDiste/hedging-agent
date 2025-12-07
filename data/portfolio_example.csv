@@ -1,0 +1,5 @@
+instrument_id,instrument_type,underlying,position,quantity,strike,maturity,currency
+1,stock,TSLA,long,100,,,
+2,option_call,TSLA,long,10,250,2025-06-30,USD
+3,future,ES,short,2,,,USD
+4,cash,,,long,50000,,,
