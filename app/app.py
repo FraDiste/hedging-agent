@@ -704,7 +704,7 @@ Long 2 digital_put strike 100 maturity 0.5""",
     default_text = example_portfolios[selected_example]
 
     portfolio_text = st.text_area(
-        "Enter your option portfolio (one position per line):",
+        "Enter your derivatives portfolio by following the same order of the example:",
         value=default_text,
         height=140,
         help=CONTROLLED_SYNTAX_DOC,
