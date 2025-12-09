@@ -659,7 +659,7 @@ simulates **Monte Carlo P&L**, and runs **hedging optimisation** in stress scena
 3. Look at the **portfolio Greeks** and the **Monte Carlo VaR / ES** to understand sensitivities and tail risk.  
 4. Inspect the **P&L distribution histogram** to see the full range of simulated outcomes.  
 5. Optionally run the **Greek-matching hedge** and the **scenario-based hedge** to see how the risk profile changes.  
-6. Switch to the **Finance Education Chatbot** tab if you want a plain-English explanation of the results.
+6. Switch to the **Finance Education Chatbot** tab if you want a clear explanation of the results.
 """
     )
 
